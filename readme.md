@@ -13,3 +13,11 @@
 ### todos
 
 - [ ] 试验redux
+
+### to read
+
+    https://www.youtube.com/watch?v=83v8cdvGfeA
+
+    https://github.com/mobxjs/mobx/issues/199
+
+    https://github.com/mobxjs/mobx/wiki/Mobx-vs-Reactive-Stream-Libraries-(RxJS,-Bacon,-etc)
