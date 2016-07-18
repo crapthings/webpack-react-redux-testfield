@@ -2,7 +2,7 @@
 
 	npm install -g horizon
 
-  git clone https://github.com/crapthings/webpack-choo-undefined.git
+  git clone https://github.com/crapthings/webpack-react-redux-testfield
 
   npm i
 
